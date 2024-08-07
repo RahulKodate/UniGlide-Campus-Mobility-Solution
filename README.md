@@ -2,6 +2,9 @@
 
 # UniGlide
 
+## Summary
+UniGlide is a campus mobility solution offering eco-friendly e-scooter subscriptions. Founded by a team of university students with diverse expertise, we aim to transform campus commuting through affordable, convenient, and sustainable transportation.
+
 ## Introduction
 Effortless commutes, endless routes.
 
